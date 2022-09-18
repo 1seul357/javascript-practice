@@ -1,2 +1,2 @@
-# javascript-practice
-JavaScript 연습하기
+# react-practice
+React 연습하기
